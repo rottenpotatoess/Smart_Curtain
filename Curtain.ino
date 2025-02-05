@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6uwaW65A2"   // Replace with your Template ID
+#define BLYNK_TEMPLATE_ID "YourBlynkTempletID"   // Replace with your Template ID
 #define BLYNK_TEMPLATE_NAME "Curtain"       // Replace with your Template Name
-#define BLYNK_AUTH_TOKEN "7xez_JM37a2OVz4KQ0H0nUl57rY709Hv" // Replace with your Auth Token
+#define BLYNK_AUTH_TOKEN "YourBlynkToken" // Replace with your Auth Token
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
